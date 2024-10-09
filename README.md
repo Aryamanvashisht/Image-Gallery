@@ -17,6 +17,9 @@ This is an Image Gallery application built with **React.js** and styled using **
 - Pagination for browsing more images
 - Image previews with details
 
+## Image
+![p2](https://github.com/user-attachments/assets/24cd999b-c4b2-4cb5-80c6-d3d57ae4d461) 
+
 ## Technologies Used
 
 - **React.js** - A JavaScript library for building user interfaces.
