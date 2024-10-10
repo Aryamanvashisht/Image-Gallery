@@ -28,7 +28,7 @@ This is an Image Gallery application built with **React.js** and styled using **
 - **Axios** - A promise-based HTTP client for the browser and Node.js to handle API requests.
 
 ## Live Link
-https://image-gallery-three-wheat.vercel.app/
+https://gallerygo.vercel.app/
 
 ## Installation
 
