@@ -27,6 +27,9 @@ This is an Image Gallery application built with **React.js** and styled using **
 - **Pixabay API** - A free API providing access to a large database of images.
 - **Axios** - A promise-based HTTP client for the browser and Node.js to handle API requests.
 
+## Live Link
+https://image-gallery-three-wheat.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
